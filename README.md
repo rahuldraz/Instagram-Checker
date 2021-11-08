@@ -17,4 +17,4 @@ python3 insta.py
 ````
 
 #### Examples
- ![Example1](https://raw.githubusercontent.com/rahuldraz/Instagram-Checker/main/Screenshot%20at%202021-11-08%2015-06-35.png)
+ ![Example1](https://raw.githubusercontent.com/rahuldraz/Instagram-Checker/main/example.png)
